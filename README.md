@@ -6,12 +6,11 @@ Découvrez notre recette de hamburger maison.
 
 ## Notre recette
 
-Pain burger
-Steak
-Salade
-Tomate
-Fromag
-bacon
-
-sauce barbecue
-
+- Pain burger
+- Steak
+- Salade
+- Tomate
+- Fromag
+- bacon
+- sauce barbecue
+- oignon
